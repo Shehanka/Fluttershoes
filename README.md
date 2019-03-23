@@ -1,6 +1,6 @@
 # fluttershoes
 
-A new Flutter project.
+Flutter Addidas shoes E commerce UI App
 
 ## Getting Started
 
